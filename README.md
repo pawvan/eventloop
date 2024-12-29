@@ -2,7 +2,6 @@ Here's the full **README.md** for your project in one single copy-paste format:
 
 ```markdown
 # Brainf*** Event Loop Simulation
-
 **An event loop simulation written in Brainf***. This project demonstrates how a basic event loop and task queue can be implemented in an esoteric language.**
 
 ## Table of Contents
